@@ -1,0 +1,10 @@
+- title: Intro to git & GitHub
+  event_type: Workshop
+  banner: https://user-images.githubusercontent.com/57007680/89570906-73c6b700-d844-11ea-934f-3021f3bc83b3.png
+  date: 22/08/2020
+  images: [https://user-images.githubusercontent.com/57007680/89570906-73c6b700-d844-11ea-934f-3021f3bc83b3.png,https://user-images.githubusercontent.com/57007680/89299883-fa349a80-d684-11ea-99b1-10d3d01573d4.jpeg,https://image.slidesharecdn.com/gitandgithubtalk-181122071434/95/introduction-to-git-and-github-1-638.jpg?cb=1542871408]
+- title: Nailing Coding Interviews
+  event_type: Seminar
+  banner: https://user-images.githubusercontent.com/57007680/89572780-3d3e6b80-d847-11ea-825a-b7f86fc1df45.png
+  date: 29/08/2020
+  images:
