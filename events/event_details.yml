@@ -5,7 +5,8 @@
   date: 2020-08-22
   time: 4:30 PM
   venue: Google Meet
-  registrationLink: https://gce.typeform.com/to/hcRCYBWr
+  registrationLink: https://docs.google.com/forms/d/e/1FAIpQLScDi6fludGDQvyLw4jzgtw4WimqTnFaKVLoETt6Hea4WMIiUw/closedform
+  feedbackLink: https://docs.google.com/forms/d/e/1FAIpQLScDi6fludGDQvyLw4jzgtw4WimqTnFaKVLoETt6Hea4WMIiUw/closedform
   speakers:
    - name: Rudra Barad
      post: Graphics Designer
@@ -31,6 +32,7 @@
   time: 9:00 AM
   venue: YouTube
   registrationLink: https://gce.typeform.com/to/hcRCYBWr
+  feedbackLink:
   speakers:   
    - name:
      post: 
