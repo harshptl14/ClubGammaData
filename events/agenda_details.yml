@@ -52,26 +52,10 @@
    - name: |
         introduction
         Part
-     time: 09:00 AM
-     duration: 1 hr
-     timeduration: 9:00 to 10:00 AM
-     speaker: Rudra Barad
-     session: introduction Session
-     photo: https://user-images.githubusercontent.com/57007680/89312793-50a9d500-d695-11ea-8c7b-324c099370b8.png
-     discription: You will get the basic knowledge of GitHub.
-   - name: Break Time
-     time: 10:00 AM
-     timeduration: 10:00 to 10:05 AM
-   - name: |
-        Starting with
-        GitHub
-     time: 10:05 AM
-     duration: 1 hr
-     timeduration: 10:05 to 11:00 AM
-     speaker: Rudra Barad
-     session: Lecture Session
-     photo: https://user-images.githubusercontent.com/57007680/89312793-50a9d500-d695-11ea-8c7b-324c099370b8.png
-     discription: You will get the basic knowledge of GitHub, what are the functionality of GitHub, how to create an account, components of GitHub.
-   - name: Break Time
-     time: 11:00 AM
-     timeduration: 11:00 to 11:05 AM
+     time:
+     duration:
+     timeduration:
+     speaker:
+     session:
+     photo:
+     discription: 
