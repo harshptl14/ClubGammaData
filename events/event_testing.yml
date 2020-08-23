@@ -1,0 +1,27 @@
+- title: Intro to git & GitHub
+  event_type: Workshop
+  description: It's a 3 hours hands on workshop which will be conducted by our club for all students to learn Git & GitHub.
+  imageLinks: https://user-images.githubusercontent.com/57007680/90880337-f1063600-e3c5-11ea-9c69-6a6efa1a876c.jpg
+  date: 2020-08-22
+  time: 4:30 PM
+  venue: Google Meet
+  hashtag: '#ClubGamma @club_gamma #IntroToGitHub'
+  registrationLink: https://docs.google.com/forms/d/e/1FAIpQLScDi6fludGDQvyLw4jzgtw4WimqTnFaKVLoETt6Hea4WMIiUw/closedform
+  feedbackLink: http://bit.ly/e1-feedback
+  speakers:
+   - name: Rudra Barad
+     post: Graphics Designer
+     image: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/rudra-barad-min.jpg
+     designation: Member at ClubGamma
+     linkedin: https://www.linkedin.com/in/rudra-barad/
+     twitter: https://twitter.com/rudraabarad
+     github: https://github.com/rudrabarad
+     instagram: https://www.instagram.com/rudra.barad/
+   - name: Chirayu Joshi
+     post: Web Expert
+     image: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/chirayu-joshi-min.jpg
+     designation: Member at ClubGamma
+     linkedin: https://www.linkedin.com/in/chirayu-joshi-154b3317b/
+     twitter: https://twitter.com/chirayu_joshi_
+     github: https://github.com/chirayu-joshi
+     instagram: https://www.instagram.com/chirayujoshi1189/
