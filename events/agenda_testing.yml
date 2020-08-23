@@ -59,7 +59,7 @@
      session:
      photo:
      discription: 
- - agenda:
+- agenda:
    - name: |
         Testing 2
         Part
@@ -73,7 +73,7 @@
    - name: Break Time
      time: 10:00 AM
      timeduration: 10:00 to 10:05 AM
- - agenda:
+- agenda:
    - name: |
         Testing 3
         Part
