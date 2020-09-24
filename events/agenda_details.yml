@@ -1,61 +1,118 @@
 - agenda:
    - name: |
-        introduction
+        Introduction
         Part
-     time: 09:00 AM
-     duration: 1 hr
-     timeduration: 9:00 to 10:00 AM
-     speaker: Rudra Barad
-     session: introduction Session
-     photo: https://user-images.githubusercontent.com/57007680/89312793-50a9d500-d695-11ea-8c7b-324c099370b8.png
-     discription: You will get the basic knowledge of GitHub.
-   - name: Break Time
      time: 10:00 AM
-     timeduration: 10:00 to 10:05 AM
-   - name: |
-        Starting with
-        GitHub
-     time: 10:05 AM
-     duration: 1 hr
-     timeduration: 10:05 to 11:00 AM
-     speaker: Rudra Barad
-     session: Lecture Session
-     photo: https://user-images.githubusercontent.com/57007680/89312793-50a9d500-d695-11ea-8c7b-324c099370b8.png
-     discription: You will get the basic knowledge of GitHub, what are the functionality of GitHub, how to create an account, components of GitHub.
+     duration:  30 min
+     timeduration: 10:00 to 10:30 AM
+     speaker: Tanisha Sabherwal
+     session: Introduction 
+     photo: https://user-images.githubusercontent.com/57007680/92906665-48864780-f442-11ea-901e-5ecf664fec5f.jpg
+     discription: She will give the basic introduction about microinteractions.
    - name: Break Time
-     time: 11:00 AM
-     timeduration: 11:00 to 11:05 AM
+     time: 10:30 AM
+     timeduration: 10:30 to 10:35 AM
    - name: |
-        Functions of
-        GitHub
-     time: 11:05 AM
-     duration: 1 hr
-     timeduration: 11:05 to 11:59 AM
-     speaker: Chirayu Joshi
-     session: Hands on Session
-     photo: https://user-images.githubusercontent.com/57007680/89312810-56071f80-d695-11ea-9b49-dd2d96c78952.png
-     discription: You will get the basic knowledge of GitHub, what are the functionality of GitHub, how to create an account, components of GitHub.
+        Creating some  
+        CSS design 
+     time: 10:35 AM
+     duration:  45 min
+     timeduration: 10:35 to 11:20 AM
+     speaker: Tanisha Sabherwal
+     session: Hands on session 
+     photo: https://user-images.githubusercontent.com/57007680/92906665-48864780-f442-11ea-901e-5ecf664fec5f.jpg
+     discription: Creating some sort of design and animation using CSS and JS.
    - name: Break Time
-     time: 12:00 PM
-     timeduration: 12:00 to 12:05 PM
+     time: 11:20 AM
+     timeduration: 11:20 to 11:25 AM
    - name: |
-        Git
-        CLI
-     time: 12:05 PM
-     duration: 1 hr
-     timeduration: 12:05 to 01:00 PM
-     speaker: Chirayu Joshi
-     session: Hands on Session
-     photo: https://user-images.githubusercontent.com/57007680/89312810-56071f80-d695-11ea-9b49-dd2d96c78952.png
-     discription: You will get the basic knowledge of GitHub, what are the functionality of GitHub, how to create an account, components of GitHub.
+        Making digital  
+        products better
+     time: 11:25 AM
+     duration:  15 min
+     timeduration: 11:25 to 11:40 AM
+     speaker: Tanisha Sabherwal
+     session: Informative
+     photo: https://user-images.githubusercontent.com/57007680/92906665-48864780-f442-11ea-901e-5ecf664fec5f.jpg
+     discription: How we can give our to contribute to make digital products better.
+   - name: |
+        Bonus
+        Session        
+     time: 11:40 AM
+     duration:  10 min
+     timeduration: 11:40 to 11:50 AM
+     speaker: Tanisha Sabherwal
+     session: Bonus Session
+     photo: https://user-images.githubusercontent.com/57007680/92906665-48864780-f442-11ea-901e-5ecf664fec5f.jpg
+     discription: Something amazing is waiting for you, stay stuned for that.
+- agenda:
+   - name: |
+        QnA 
+        Session
+     time: 08:30 PM
+     duration: 1 hour
+     timeduration: 08:30 to 09:30 PM
+     speaker: Anjali Viramgama
+     session: QnA Session
+     photo: https://drive.google.com/uc?export=view&id=1oLfFY6JkYzPvWjCBb8yLY_-1rPdHLgis
+     discription: She will guide us on how to land in top MNC companies and what care should be taken while applying in top companies.
 - agenda:
    - name: |
         introduction
         Part
-     time:
-     duration:
-     timeduration:
-     speaker:
-     session:
-     photo:
-     discription: 
+     time: 04:30 PM
+     duration: 30 min
+     timeduration: 04:30 to 05:00 PM
+     speaker: Rudra Barad
+     session: introduction Session
+     photo: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/rudra-barad-min.jpg
+     discription: Brief intro of version controlling system.
+   - name: Break Time
+     time: 05:00 PM
+     timeduration: 05:00 to 05:05 PM
+   - name: |
+        Starting with
+        GitHub
+     time: 05:05 PM
+     duration: 30 min
+     timeduration: 05:05 to 05:35 PM
+     speaker: Rudra Barad
+     session: Lecture Session
+     photo: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/rudra-barad-min.jpg
+     discription: Basic terms of GitHub and the tour of GitHub Website. You will get to know basic of GitHub!
+   - name: Break Time
+     time: 05:35 PM
+     timeduration: 05:35 to 05:40 PM
+   - name: |
+        Functions of
+        GitHub
+     time: 05:40 PM
+     duration: 50 min
+     timeduration: 05:40 to 06:30 PM
+     speaker: Chirayu Joshi
+     session: Hands on Session
+     photo: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/chirayu-joshi-min.jpg
+     discription: You will get to learn ther basic opreation like create repo, pull, merge etc using GitHub website.
+   - name: Break Time
+     time: 06:30 PM
+     timeduration: 06:30 to 06:35 PM
+   - name: |
+        Git
+        CLI
+     time: 06:35 PM
+     duration: 30 min
+     timeduration: 06:35 to 07:05 PM
+     speaker: Chirayu Joshi
+     session: Hands on Session
+     photo: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/chirayu-joshi-min.jpg
+     discription: You will learn Fuction of GitHub once again but in Command line Interface.
+   - name: |
+        Bonus
+        Session
+     time: 07:05 PM
+     duration: 15 min
+     timeduration: 07:05 to 07:20 PM
+     speaker: Rudra Barad
+     session: Introduction
+     photo: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/rudra-barad-min.jpg
+     discription: You will get to know about the GitHub Student Developer Pack and GitHub Pages!
